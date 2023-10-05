@@ -7,6 +7,9 @@
 
 另外对“Googology” 感兴趣，可能会发布一些关于 Googology 的事情。
 
+# 关于项目
+**本项目一般是Googology相关的项目。** 一般通过此项目研究 $\text{Googology}$ 等。
+
 我的 Fandom: <https://oier.fandom.com/zh/wiki/User:Gongxiang01>。
 <!---
 googologygithub/googologygithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
