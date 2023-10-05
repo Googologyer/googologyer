@@ -4,6 +4,8 @@
 - 📫 您可以叫我 Googol.
 
 我一般会使用[洛谷](https://luogu.com.cn)刷题。
+
+另外对“Googology” 感兴趣，可能会发布一些关于 Googology 的事情。
 <!---
 googologygithub/googologygithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
